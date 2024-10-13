@@ -5,7 +5,7 @@
 Welcome to the Arduino OLED Display Examples repository! This project provides simple and easy-to-understand examples to help you get started with using a 0.96" OLED screen in your Arduino projects. Whether you're a beginner or an experienced developer, these examples will demonstrate how to display text and graphics on the OLED screen.
 
 ### 📺 Watch the Tutorial on YouTube:
-[![OLED Tutorial](https://img.youtube.com/vi/QYhrCsMMIco/0.jpg)](https://youtu.be/QYhrCsMMIco)
+[![OLED Tutorial](https://img.youtube.com/vi/QYhrCsMMIco/0.jpg)](https://www.youtube.com/watch?v=QYhrCsMMIco)
 
 ---
 
